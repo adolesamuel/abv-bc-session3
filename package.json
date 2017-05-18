@@ -1,0 +1,19 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adolesamuel/abv-bc-session3.git"
+  },
+  "author": "Adole Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adolesamuel/abv-bc-session3/issues"
+  },
+  "homepage": "https://github.com/adolesamuel/abv-bc-session3#readme"
+}

@@ -1,6 +1,5 @@
 # abv-bc-session3
-## Assignments divided into branches
-#### 2 branches currently
-#### Branch Master Contains description
-#### Branch reversestring for coding labs question 1
-#### Branch findmissing for coding labs question 2
+## Question 1: reverseString
+#### Run "npm install jasmine" to install jasmine test module
+#### Run "npm test" or "jasmine" to carry out tests
+#### 
